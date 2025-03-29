@@ -14,6 +14,3 @@ if __name__ == "__main__":
     print(f"Texto original: {texto}")
     print(f"Hash SHA-256: {resultado}")
     print(f"Longitud: {len(resultado)} caracteres")
-
-# Salida esperada (ejemplo):
-# Hash SHA-256: 2f77668a9dfbf8d5848b9eeb4a7145ca... (64 caracteres)
