@@ -175,7 +175,7 @@ class EdmondsKarp:
 if __name__ == "__main__":
     # Crear y cargar grafo
     grafo = ListaAdyacencia()
-    leer_grafo_desde_archivo('reto\Flujo Maximo\Edmonds-Karp\entrada.txt', grafo)
+    leer_grafo_desde_archivo('reto/Flujo Maximo/Edmonds-Karp/entrada.txt', grafo)
     
     # Definir fuente y sumidero (ajustar según necesidades)
     FUENTE = 0

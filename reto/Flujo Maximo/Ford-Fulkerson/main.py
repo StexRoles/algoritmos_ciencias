@@ -212,7 +212,7 @@ if __name__ == "__main__":
     grafo = ListaAdyacencia()
     
     # Cargar datos desde archivo
-    leer_grafo_desde_archivo('reto\Flujo Maximo\Ford-Fulkerson\entrada.txt', grafo)
+    leer_grafo_desde_archivo('reto/Flujo Maximo/Ford-Fulkerson/entrada.txt', grafo)
     
     # Definir fuente y sumidero (ajustar según tu problema)
     fuente = 0
